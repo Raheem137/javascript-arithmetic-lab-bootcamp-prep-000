@@ -1,6 +1,6 @@
 
-int a;
-int b;
+var a;
+var b;
 
 add(a , b){
    return a+b;
