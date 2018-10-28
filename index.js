@@ -2,8 +2,7 @@
 int a,b;
 
 add(a , b){
-  var results = a + b;
-  return results;
+   return a+b;
 }
 
 subtract(a,b){
