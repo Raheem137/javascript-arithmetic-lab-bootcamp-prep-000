@@ -2,7 +2,7 @@
 var a;
 var b;
 
-add(a , b){
+add(){
    return a+b;
 }
 
